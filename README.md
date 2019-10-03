@@ -53,6 +53,11 @@ Here's an example of my profile
 
 ***
 
+## Still confused ❓
+ follow this issue link. [click here](https://github.com/Arham-Aalam/hacktoberfest2k19-data-science-contributions/issues/1)
+
+***
+
 ## 🔥 What will happen after my contribution?
 You will get a T-shirt.
 
