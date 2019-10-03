@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/D9g4K9q/Data-Science-Super-heros.png)
 
-# hacktoberfest-data-science-projects [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+# 🔥 hacktoberfest2k19-data-science-contributions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > This repository is made for hacktoberfest contribution for data science enthusiasts. 
 
 ***
@@ -24,7 +24,7 @@ So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop
 
 # 👍 This is Awesome! How Can I Contribute? 
 It's very easy. You don't need to be an expert in coding and programming. Here are the steps you need to follow to create your -(maybe)- EXAMPLE first pull request within few minutes.
-1. Fork this repository by click the Fork button in the top right of this page or simply [click here](https://github.com/Arham-Aalam/hacktoberfest-data-science-projects/fork).
+1. Fork this repository by click the Fork button in the top right of this page or simply [click here](https://github.com/Arham-Aalam/hacktoberfest2k19-data-science-contributions/fork).
 2. Clone your forked repo on your machine.
 3. Navigate to `CONTRIBUTORS.md` file
 4. Edit the file and insert your short profile with the following text
