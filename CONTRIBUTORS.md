@@ -13,3 +13,9 @@
 - Github: https://github.com/Ashutoshsoni891
 
 -----------
+
+### Pranav Mahajan
+- Location: Amritsar, India
+- Bio: 📱 Big Data and Java Developer
+- Github: https://github.com/pranav3798
+
