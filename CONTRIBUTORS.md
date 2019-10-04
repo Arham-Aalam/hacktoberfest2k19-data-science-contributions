@@ -6,3 +6,10 @@
 - Github: https://github.com/arham-aalam
 
 -----------
+
+### Ashutosh Soni
+- Location: Indore, India
+- Bio: 📱 Machine Learning Engineer
+- Github: https://github.com/Ashutoshsoni891
+
+-----------
