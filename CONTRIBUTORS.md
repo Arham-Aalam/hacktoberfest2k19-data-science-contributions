@@ -19,3 +19,7 @@
 - Bio: 📱 Big Data and Java Developer
 - Github: https://github.com/pranav3798
 
+### Rahul Saini
+- Location: Mandi, HP
+- Bio: frontend developer
+- Github: https://github.com/rs4231199
