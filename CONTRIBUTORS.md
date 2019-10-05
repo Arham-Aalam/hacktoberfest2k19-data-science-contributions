@@ -33,3 +33,10 @@
 - Github: https://github.com/rs4231199
 
 -------------------------------------------
+
+### Tiago Wutzke de Oliveira
+- Location: Santa Catarina, Brazil
+- Bio: Data analyst
+- Github: https://github.com/tiagowutzke
+
+-------------------------------------------
