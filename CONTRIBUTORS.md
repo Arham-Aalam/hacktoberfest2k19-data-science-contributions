@@ -19,3 +19,17 @@
 - Bio: 📱 Big Data and Java Developer
 - Github: https://github.com/pranav3798
 
+-----------------------------------------
+### Tushar Goyal
+- Location: Mandi, India
+- Bio: 📱 Data Science Enthusiast. IITIAN
+- Github: https://github.com/b18030
+
+-----------------------------------------
+
+### Rahul Saini
+- Location: Mandi, HP
+- Bio: frontend developer
+- Github: https://github.com/rs4231199
+
+-------------------------------------------
