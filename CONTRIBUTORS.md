@@ -2,7 +2,7 @@
 
 ### Arham Aalam
 - Location: Indore, India
-- Bio: 📱 Machine Learning Engineer . 💻 Open Source Contributor 
+- Bio: 📱 Machine Learning Engineer . 💻 Open Source Contributor
 - Github: https://github.com/arham-aalam
 
 -----------
@@ -38,5 +38,13 @@
 - Location: Santa Catarina, Brazil
 - Bio: Data analyst
 - Github: https://github.com/tiagowutzke
+
+-------------------------------------------
+
+
+### Ashwin Kushwah
+- Location: Indore, India
+- Bio: 📱 Full Stack Developer 💻 Technical Blogger
+- Github:https://github.com/AshwinKushwah
 
 -------------------------------------------
