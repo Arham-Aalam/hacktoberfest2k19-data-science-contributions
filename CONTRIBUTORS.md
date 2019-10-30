@@ -47,8 +47,4 @@
 - Bio: 📱 Full Stack Developer 💻 Technical Blogger
 - Github:https://github.com/AshwinKushwah
 
--------------------------------------------
-### Murilo Felipe
-- Location: Sao Paulo, Brazil
-- Bio: Data Scientist
-- Github: https://github.com/MuriloAndre2000
+
