@@ -48,3 +48,9 @@
 - Github:https://github.com/AshwinKushwah
 
 -------------------------------------------
+
+### hrshwardhan Mishra2gmail.com
+- Location: Indore, India
+- Bio: 📱 Data Science Enthusiast 
+- Github:https://github.com/hwmishra
+-------------------------------------------
